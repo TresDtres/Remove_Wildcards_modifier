@@ -16,7 +16,7 @@ This tool allows you to modify text files by adding text to the beginning and en
 ## Contributions
 Contributions are welcome. Feel free to contribute to the project and make it even better.
 If you find it helpful, you can also support the project by [buying me a coffee](https://www.buymeacoffee.com/TresDtres). Thank you!
-# PROMPHERO.COM 
+# PROMPTHERO.COM 
 [Prompt engineering course](https://prompthero.com/academy/prompt-engineering-course/aibreakfast)
 ## License
 This project is licensed under the [MIT License](LICENSE).
